@@ -1,6 +1,19 @@
 # fetch-constants
 
 
+compare these modules and pick one 
+
+and check their downloads stats....
+- https://www.npmjs.com/package/enumish (cool for inner objects...)
+- https://github.com/cedx/enum.js (typescriptish :()
+- https://github.com/adrai/enum (ok, and have getters... first in github search)
+- https://github.com/wwayne/es6-enum (my winner so far)
+- https://github.com/rauschma/enumify (can handle complex cases, but did we need them?)
+
+- https://github.com/phenax/enum-fp/blob/master/docs/react.md (can be cool, because this actions our first goal)
+
+longread below
+
 ## [Groceristar][api][methods]
 
 Below you'll see a document with basic URLS, that have any groceristar project.
