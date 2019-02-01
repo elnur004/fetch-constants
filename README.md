@@ -14,6 +14,10 @@ and check their downloads stats....
 
 longread below
 
+---
+
+https://github.com/GroceriStar/documentation
+
 ## [Groceristar][api][methods]
 
 Below you'll see a document with basic URLS, that have any groceristar project.
@@ -142,6 +146,7 @@ Here you can find few methods, related to sign up process. You should create set
 
 ---
 
+:princess:
 
 #### [Groceristar][Favorites][methods]
 
