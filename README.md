@@ -214,7 +214,7 @@ To place an order and more, go directly to the restaurant's page on the takeout 
 
 #### [Groceristar][Grocery][methods]
 
-By using names on methods from this [page](https://groceristar.gitbook.io/documentation/groceristar-website-methods-list/grocery-router)
+By using names on methods from this [page](https://groceristar.github.io/documentation/docs/groceristar-website-methods-list/grocery-router/grocery-router.html)
 In order to make it better, we'll create set of constants, each for a different method.
 
 Example:
