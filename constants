@@ -1,2 +1,29 @@
 //For method that displays hidden departments
 export const GET_ALL_HIDDEN_DEPARTMENTS="GET_ALL_HIDDEN_DEPARTMENTS";
+
+//For method that will attach grocery list to user
+export const ATTACH_GROCERY_LIST_TO_USER="ATTACH_GROCERY_LIST_TO_USER";
+
+//For cloning list with all data to new grocery list record
+export const CLONE_GROCERY_LIST_DATA="CLONE_GROCERY_LIST_DATA";
+
+//For displaying groceries from basic templates
+export const GET_ALL_BASIC_GROCERIES="GET_ALL_BASIC_GROCERIES";
+
+//For displaying page with clone Form
+export const GET_PAGE_WITH_CLONE_FORM="GET_PAGE_WITH_CLONE_FORM";
+
+//For removing grocery list from user account
+export const DELETE_GROCERY_LIST="DELETE_GROCERY_LIST";
+
+//For creating new empty grocery list
+export const CREATE_EMPTY_GROCERY_LIST="CREATE_EMPTY_GROCERY_LIST";
+
+//For displaying all grocery list related to user
+export const GET_ALL_USER_GROCERY_LIST="GET_ALL_USER_GROCERY_LIST";
+
+//For method that updates grocery list name
+export const CHANGE_GROCERY_LIST_NAME="CHANGE_GROCERY_LIST_NAME";
+
+//For method that displays shopping list
+export const GET_SHOPPING_LIST="GET_SHOPPING_LIST";
