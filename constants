@@ -1,0 +1,2 @@
+//For method that displays hidden departments
+export const GET_ALL_HIDDEN_DEPARTMENTS="GET_ALL_HIDDEN_DEPARTMENTS";
